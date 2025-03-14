@@ -1,7 +1,7 @@
-Hi there 👋
-Wasif here 😄
-I'm a Competitive Programmer with good knowledge of DSA
-Solid in problem-solving ⚡
+- Hi there 👋
+- Wasif here 😄
+- I'm a Competitive Programmer with good knowledge of DSA
+- Solid in problem-solving ⚡
 
 <!--
 **Wasif-Shahzad/Wasif-Shahzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

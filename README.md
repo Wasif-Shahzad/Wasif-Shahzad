@@ -1,19 +1,55 @@
-- Hi there 👋
-- Wasif here 😄
-- I'm a Competitive Programmer with good knowledge of DSA
-- Solid in problem-solving ⚡
+# Wasif Shahzad
 
-<!--
-**Wasif-Shahzad/Wasif-Shahzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Codeforces Rating](https://img.shields.io/badge/Codeforces-Specialist-cyan)](https://codeforces.com/profile/wasif_shahzad) [![AtCoder Rating](https://img.shields.io/badge/AtCoder-952-green)](https://atcoder.jp/users/Wasif_Shahzad)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a competitive programmer and Codeforces Peak Specialist with over **1,300+ solved problems**. I'm passionate about applying algorithmic skills to open-source development and building robust, scalable systems.
+
+---
+
+## 🔍 About Me
+
+* 🌟 **Peak Specialist** on Codeforces
+* 🏆 **1,300+** problems solved on various competitive programming platforms (Codeforces, AtCoder, UVa, etc.)
+* 🎓 High school graduate entering FAST-NUCES, Karachi (Class of 2029)
+* 💡 Passionate about open-source projects and real-world development practices
+* 🌱 Always learning new languages, frameworks, and tools
+
+---
+
+## 🚀 Skills & Technologies
+
+* **Languages:** C++, Python
+* **Web (Basic):** HTML, CSS
+* **Tools:** Git, Linux, VS Code
+* **Algorithms & Data Structures:** Graphs, Trees, DP, Greedy, Number Theory
+
+---
+
+## 🏅 Competitive Programming
+
+* **Codeforces:** Peak Specialist – [Link](https://codeforces.com/profile/lgm_)
+
+* **ICPC:** Preparing for regional contests and aiming for World Finals
+
+---
+
+## 🌍 Open Source Contributions
+
+I'm currently contributing to **vacanza/holidays**, a Python library for holiday data:
+
+- **Repository:** [vacanza/holidays](https://github.com/vacanza/holidays)
+- **Package:** [PyPI - holidays](https://pypi.org/project/holidays/)
+  
+**Contributions:**
+1. Added holiday definitions for new regions  
+2. Improved localization and translation support  
+3. Submitted and merged pull requests to enhance coverage
+---
+
+## 📫 Contact & Connect
+
+* ✉️ Email: [wasif\_shahzad\_1@outlook.com](mailto:wasif_shahzad_1@outlook.com)
+* 💼 LinkedIn: [Wasif Shahzad](https://www.linkedin.com/in/wasif-shahzad-3b7150318)
+
+---

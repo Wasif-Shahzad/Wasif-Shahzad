@@ -1,6 +1,6 @@
 # Wasif Shahzad
 
-[![Codeforces Rating](https://img.shields.io/badge/Codeforces-Specialist-cyan)](https://codeforces.com/profile/wasif_shahzad) [![AtCoder Rating](https://img.shields.io/badge/AtCoder-952-green)](https://atcoder.jp/users/Wasif_Shahzad)
+[![Codeforces Rating](https://img.shields.io/badge/Codeforces-Specialist-cyan)](https://codeforces.com/profile/wasif_shahzad) [![AtCoder Rating](https://img.shields.io/badge/AtCoder-1000-green)](https://atcoder.jp/users/Wasif_Shahzad)
 
 
 I'm a competitive programmer and Codeforces Peak Specialist with over **1,300+ solved problems**. I'm passionate about applying algorithmic skills to open-source development and building robust, scalable systems.

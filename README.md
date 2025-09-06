@@ -3,15 +3,15 @@
 [![Codeforces Rating](https://img.shields.io/badge/Codeforces-Expert-blue)](https://codeforces.com/profile/lgm_) [![AtCoder Rating](https://img.shields.io/badge/AtCoder-1000-green)](https://atcoder.jp/users/Wasif_Shahzad)
 
 
-I'm a competitive programmer and Codeforces Peak Specialist with over **1,300+ solved problems**. I'm passionate about applying algorithmic skills to open-source development and building robust, scalable systems.
+I'm a competitive programmer and Codeforces Peak Specialist with over **2,000+ solved problems**. I'm passionate about applying algorithmic skills to open-source development and building robust, scalable systems.
 
 ---
 
 ## 🔍 About Me
 
-* 🌟 **Peak Specialist** on Codeforces
-* 🏆 **1,300+** problems solved on various competitive programming platforms (Codeforces, AtCoder, UVa, etc.)
-* 🎓 High school graduate entering FAST-NUCES, Karachi (Class of 2029)
+* 🌟 **Peak Expert** on Codeforces
+* 🏆 **2,000+** problems solved on various competitive programming platforms (Codeforces, AtCoder, UVa, etc.)
+* 🎓 Undergrad Student at FAST-NUCES, Karachi Campus
 * 💡 Passionate about open-source projects and real-world development practices
 * 🌱 Always learning new languages, frameworks, and tools
 
@@ -28,7 +28,7 @@ I'm a competitive programmer and Codeforces Peak Specialist with over **1,300+ s
 
 ## 🏅 Competitive Programming
 
-* **Codeforces:** Peak Specialist – [Link](https://codeforces.com/profile/lgm_)
+* **Codeforces:** Peak Expert – [Link](https://codeforces.com/profile/lgm_)
 
 * **ICPC:** Preparing for regional contests and aiming for World Finals
 
